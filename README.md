@@ -5,4 +5,4 @@ This repository contains screenshots of the notebooks on databricks. It also con
 
 The links to the actual databricks notebook: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3160593940568564/3961419216730021/8940950555908748/latest.html
 
-Link to the dashboard: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3160593940568564/3961419216730021/8940950555908748/latest.html
+
